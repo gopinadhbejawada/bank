@@ -1,0 +1,41 @@
+/* Home.css */
+
+.navbar {
+    background-color: #ff69b4 !important; /* Pink navbar */
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    color: white !important;
+  }
+  
+  .sidebar {
+    background-color: #f5f5f5; /* Light grey sidebar */
+    height: 100vh;
+    border-right: 2px solid #ddd;
+  }
+  
+  .sidebar h5 {
+    color: #2e8b57; /* Green */
+  }
+  
+  .sidebar .btn-outline-primary {
+    border-color: #2e8b57;
+    color: #2e8b57;
+  }
+  
+  .sidebar .btn-outline-primary:hover {
+    background-color: #2e8b57;
+    color: white;
+  }
+  
+  .main-content {
+    background-color: #fff0f5; /* Very light pink background */
+    padding: 2rem;
+    min-height: 100vh;
+  }
+  
+  .main-content h2 {
+    color: #2e8b57; /* Green heading */
+  }
+  
